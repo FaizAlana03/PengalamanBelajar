@@ -27,4 +27,5 @@ Belajar kelas Overriding. (Progres 10%)
 **28 Juni 2021**
 Belajar kelas Overriding. (Progres 30%)
   * Berlatih melakukan overriding
+  * Belajar apa itu overriding
   * Mengerjakan kuis
