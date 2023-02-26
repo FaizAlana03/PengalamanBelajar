@@ -22,3 +22,8 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 **25 Juni 2021**
 Belajar kelas Overriding. (Progres 5%)
   * Belajar konsep overriding
+
+**26 Juni 2021**
+Belajar kelas Overriding. (Progres 10%)
+  * Belajar konsep overriding
+  * Melanjutkan pembelajaran mengenai overriding
